@@ -3,7 +3,7 @@ title: "Browsing Health: Information Extraction to Support New Interfaces for Ac
 collection: publications
 permalink: /publication/browsing-health
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-06
+date: 2019-06-11
 venue: 'ACL Workshop on Extracting Structured Knowledge from Scientific Publications'
 paperurl: 'https://www.aclweb.org/anthology/W19-2606/'
 ---
