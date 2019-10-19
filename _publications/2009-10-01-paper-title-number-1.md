@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Browsing Health: Information Extraction to Support New Interfaces for Accessing Medical Evidence"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/browsing-health
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019-06
+venue: 'ACL Workshop on Extracting Structured Knowledge from Scientific Publications'
+paperurl: 'https://www.aclweb.org/anthology/W19-2606/'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+We present an initial prototype of an interface with faceted-search where the user can specify a condition and browse through treatments and outcomes that have been evaluated, specifically for randomized controlled trials (RCTs) describing individual studies. My contribution towards this project was to train a sequence labeling model for identifying the Patient, Intervention and Outcomes spans from abstract of medical publications and conduct pilot studies to analyze its generalization ability on existing publications. 
