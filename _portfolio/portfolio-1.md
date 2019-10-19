@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "University of Pennsylvania"
+excerpt: "Research Assistant"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Working in collaboration with Penn's Political Science Department under the guidance of Dr. Ani Nenkova and Dr. Diana Mutz on a project to analyze civility in political discourses. My contribution towards this project is to analyze the transcripts of Democratic Debates and Political Talk shows to determine how well incivility can be predicted from just the text. 
