@@ -1,6 +1,6 @@
 ---
-title: "Passage AI"
-excerpt: "Machine Learning Intern, May - Aug 2019"
+title: "Machine Learning Intern"
+excerpt: "Passage AI, May - Aug 2019"
 collection: portfolio
 ---
 

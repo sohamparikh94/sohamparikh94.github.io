@@ -1,6 +1,6 @@
 ---
-title: "University of Pennsylvania"
-excerpt: "Research Assistant"
+title: "Research Assistant"
+excerpt: "University of Pennsylvania, Aug 2019 - Ongoing"
 collection: portfolio
 ---
 

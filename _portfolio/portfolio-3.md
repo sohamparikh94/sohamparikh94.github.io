@@ -1,6 +1,6 @@
 ---
-title: "Flipkart"
-excerpt: "Software Development Engineering Intern, May - July 2016"
+title: "SDE Intern"
+excerpt: "Flipkart, May - July 2016"
 collection: portfolio
 ---
 
