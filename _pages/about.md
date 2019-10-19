@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Soham Parikh"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- Master's student in Computer and Information Science at the [University of Pennsylvania](https://home.www.upenn.edu/) in my 2nd year. I'm currently working on my Master's Thesis with [Dr. Lyle Ungar](https://www.cis.upenn.edu/~ungar/) as my advisor. I also work with [Dr. Ani Nenkova](https://www.cis.upenn.edu/~nenkova/) on a research project in collaboration with [Penn's Political Science Department](https://www.polisci.upenn.edu). Before Penn, I graduated as a Dual Degree student in the [Dept. of CSE](http://cse.iitm.ac.in/) at [IIT Madras](https://www.iitm.ac.in) in 2018 where [Dr. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) was my thesis advisor. 
-
- I'm interested in Natural Language Processing and its application in different fields. You can go through my Projects and [Publications](/publication) to get a better idea about my background in the field. 
+ CIS Master's student at the [University of Pennsylvania](https://home.www.upenn.edu/). I'm currently working on my Master's Thesis with [Dr. Lyle Ungar](https://www.cis.upenn.edu/~ungar/) as my advisor. I also work with [Dr. Ani Nenkova](https://www.cis.upenn.edu/~nenkova/) on a research project in collaboration with [Penn's Political Science Department](https://www.polisci.upenn.edu). Prior to Penn, I was as a Dual Degree student in the [Dept. of CSE](http://cse.iitm.ac.in/) at [IIT Madras](https://www.iitm.ac.in) where [Dr. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) was my [thesis](https://arxiv.org/abs/1904.02665) advisor. I'm interested in Natural Language Processing and its application in different fields. You can go through my [Publications](https://sohamparikh94.github.io/publications/) and experience to look at some of the projects I have worked on. 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
