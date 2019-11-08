@@ -2,7 +2,7 @@
 title: "Frustratingly Poor Performance of Reading Comprehension Models on Non-adversarial Examples"
 collection: publications
 permalink: /publication/frustratingly-poor
-date: 2010-10-01
+date: 2019-04-01
 venue: 'ArXiv Pre-print'
 paperurl: 'https://arxiv.org/abs/1904.02665'
 ---
